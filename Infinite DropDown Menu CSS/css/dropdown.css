@@ -1,2 +1,27 @@
 
 
+body{
+	background-color: #3E4C8C;
+}
+
+
+
+
+ul {
+	list-style: none;
+}
+
+
+#wrapper{
+	background-color: rgba(225,225,225,.2);
+	width: 978px;
+	margin: 0px auto;
+	color: rgb(225,225,225);
+	
+}
+
+
+#wrapper a {
+	color: rgb(225,225,225);
+	text-decoration: none;
+}
