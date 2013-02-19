@@ -1,4 +1,4 @@
-# Kolibri Frames v0.0
+# [Kolibri Frames v.0.1]
 
 My Basic & Useful Frameworks.
 
@@ -18,5 +18,5 @@ My Basic & Useful Frameworks.
 
 Attribution 3.0 Unported (CC BY 3.0)
 
-Kolibri - Frames | v 0.0 by @The_Kolibri is licensed under a Creative Commons Reconocimiento 3.0 Unported License.
+Kolibri - Frames | v. 0.1 by @The_Kolibri is licensed under a Creative Commons Reconocimiento 3.0 Unported License.
 Kolibri Ink 2013
